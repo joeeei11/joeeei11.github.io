@@ -1,0 +1,8 @@
+# 工作目录（原型迭代过程中的素材备份、历史快照、原始素材），不发布到线上
+/V3/
+
+# 其他本地工作目录
+/.serena/
+/.spec-workflow/
+/V2/
+/editorial-showcase/
